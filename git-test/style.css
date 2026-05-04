@@ -1,0 +1,33 @@
+.note {background-color: lightgrey;
+	   height: 25px;
+	   display: flex;
+	   align-items: center;
+	   width: 850px;	   
+	   font-size:16px;
+	   padding-top: 10px;
+	   padding-bottom:10px;
+	   padding-left: 30px;
+	  }
+body  {background-color: #A100004D;
+	   margin: 150px;
+	   margin-top: 0;
+	  }
+.page {background-color: white;	
+	   justify-content: center;
+	   position: absolute;
+	   padding-top: 1px;
+	   padding-bottom: 40px;
+	   padding-left: 30px;
+	   padding-right: 10px;
+	   justify-content: center;
+	   align-items: center;
+	   width: 904px;
+	   font-family: Open Sans;
+	  }
+.img  {display:block;
+       padding-top: 1px
+       background-color: white;
+	  }
+.img1 {display: block;
+	   margin: 0;
+	  }
